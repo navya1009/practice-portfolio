@@ -27,3 +27,5 @@ A modern, responsive, single-page portfolio website built using **HTML, CSS, Jav
 | **Google Fonts (Poppins)** | Clean, modern typography |
 
 ---
+
+⚠️ This is a practice project created while learning web development fundamentals.
